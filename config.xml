@@ -18,5 +18,7 @@
   </author>
 
 <icon src="icon.png" />
-
+    
+    <preference name="orientation" value="portrait" />
+    
 </widget>
